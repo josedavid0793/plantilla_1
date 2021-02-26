@@ -1,4 +1,7 @@
-<!doctype html>
+<?php
+include "conexion.php";
+?>
+<!DOCTYPE html>
 <html>
     <head>
        <meta charset="utf-8">
@@ -66,7 +69,7 @@
          </div>
        </section>
        <section id="servicesmj">
-         
+       
        </section>
        <br><br><br>
 <script
