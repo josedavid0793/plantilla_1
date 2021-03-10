@@ -68,8 +68,50 @@ include "conexion.php";
             </div>
          </div>
        </section>
-       <section id="servicesmj">
-       
+       <section id="services">
+       <div class="contenedor">
+			<div class="titular">
+				<h2>OUR SERVICES</h2>
+				<h3> Donec sollicitudin molestie malesuada. Lorem ipsum dolor sit amet,
+				consect adipiscing amet sit dolor</h3>
+				<a class="boton" href="">Conoce más...</a>
+			</div>
+			<div id="service-uno" class="service service-shadow">
+				<img src="imagenes/safe.png" alt="">
+				<h4>Safe & Secure</h4>
+				<p>Your content goes here. Edit or remove this text  inline or in the module content settings.
+				You can also style every aspect of this content in the module design settings and every  apply custom CSS to this text
+			     in the module Advanced settings.</p>
+			     <a href="">CLICK HERE</a>
+			</div>
+		</div>
+		<div class="contenedor contenedor-services-2">
+			<div class="service">
+				<img src="imagenes/safe.png" alt="">
+				<h4>Safe & Secure</h4>
+				<p>Your content goes here. Edit or remove this text  inline or in the module content settings.
+				You can also style every aspect of this content in the module design settings and every  apply custom CSS to this text
+			     in the module Advanced settings.</p>
+			     <a href="">CLICK HERE</a>
+			 </div>
+			<div class="service" id="dos">
+			    <img src="imagenes/safe.png" alt="">
+				<h4>Safe & Secure</h4>
+				<p>Your content goes here. Edit or remove this text  inline or in the module content settings.
+				You can also style every aspect of this content in the module design settings and every  apply custom CSS to this text
+			     in the module Advanced settings.</p>
+			     <a href="">CLICK HERE</a>
+			</div>
+			<div class="service" id="service-cuatro">
+				<img src="imagenes/safe.png" alt="">
+				<h4>Safe & Secure</h4>
+				<p>Your content goes here. Edit or remove this text  inline or in the module content settings.
+				You can also style every aspect of this content in the module design settings and every  apply custom CSS to this text
+			     in the module Advanced settings.</p>
+			     <a href="">CLICK HERE</a>
+			</div>
+
+		</div>
        </section>
        <br><br><br>
 <script
